@@ -49,6 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Concrete\Cart.cs" />
+    <Compile Include="Concrete\CartLine.cs" />
     <Compile Include="Concrete\Kategori.cs" />
     <Compile Include="Concrete\Kullanici.cs" />
     <Compile Include="Concrete\Tedarikci.cs" />
