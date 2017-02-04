@@ -3,3 +3,11 @@ C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service
 C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\obj\Debug\Emir.Service.csprojResolveAssemblyReference.cache
 C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\obj\Debug\Emir.Service.dll
 C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\obj\Debug\Emir.Service.pdb
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\bin\Debug\Emir.Core.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\bin\Debug\Emir.Dal.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\bin\Debug\Emir.Entities.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\bin\Debug\EntityFramework.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\bin\Debug\Emir.Core.pdb
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\bin\Debug\Emir.Dal.pdb
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\bin\Debug\Emir.Entities.pdb
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Service\bin\Debug\EntityFramework.xml

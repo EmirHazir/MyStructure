@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emir.Entities", "Emir.Entit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emir.Core", "Emir.Core\Emir.Core.csproj", "{E05D6A2D-174C-41FB-9DE0-257C94FB1191}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{3D9EFF25-FD60-48B3-9781-75574F74C259}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E05D6A2D-174C-41FB-9DE0-257C94FB1191}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05D6A2D-174C-41FB-9DE0-257C94FB1191}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05D6A2D-174C-41FB-9DE0-257C94FB1191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9EFF25-FD60-48B3-9781-75574F74C259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9EFF25-FD60-48B3-9781-75574F74C259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9EFF25-FD60-48B3-9781-75574F74C259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9EFF25-FD60-48B3-9781-75574F74C259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
