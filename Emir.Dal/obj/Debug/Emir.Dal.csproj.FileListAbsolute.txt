@@ -1,0 +1,14 @@
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\Emir.Dal.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\Emir.Dal.pdb
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\obj\Debug\Emir.Dal.csprojResolveAssemblyReference.cache
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\obj\Debug\Emir.Dal.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\obj\Debug\Emir.Dal.pdb
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\Emir.Dal.dll.config
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\Emir.Core.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\Emir.Entities.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\EntityFramework.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\Emir.Core.pdb
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\Emir.Entities.pdb
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\EntityFramework.xml
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Dal\bin\Debug\EntityFramework.SqlServer.xml

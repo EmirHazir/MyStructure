@@ -1,0 +1,10 @@
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\bin\Debug\Emir.Core.dll.config
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\bin\Debug\Emir.Core.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\bin\Debug\Emir.Core.pdb
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\bin\Debug\EntityFramework.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\bin\Debug\EntityFramework.xml
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\obj\Debug\Emir.Core.csprojResolveAssemblyReference.cache
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\obj\Debug\Emir.Core.dll
+C:\Users\BURCUALA\Documents\Visual Studio 2015\Projects\MyStructure\Emir.Core\obj\Debug\Emir.Core.pdb
